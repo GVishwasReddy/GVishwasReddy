@@ -1,3 +1,4 @@
+https://vite-react-nine-nu-36.vercel.app
 # 💫 About Me:
 🔭 I’m currently working on building AI-powered rovers and autonomous vehicles.<br>👯 I’m looking to collaborate on open-source robotics and hardware/AI integration.<br>🤝 I’m looking for help with dynamic obstacle avoidance and navigating complex road conditions.<br>🌱 I’m currently learning more about semantic segmentation and machine learning algorithms.<br>💬 Ask me about anything from training machine learning models to wiring up servos!<br>⚡ Fun fact: My desk is basically a hardware store—there's always an ESP32, a servo, or a Raspberry Pi within arm's reach.
 
